@@ -1,7 +1,7 @@
 # NAME: HBO
-# DOMAIN-SUFFIX: 48
+# DOMAIN-SUFFIX: 49
 # USER-AGENT: 2
-# TOTAL: 50
+# TOTAL: 51
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,cinemax.com
@@ -50,5 +50,6 @@ DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,h264.io
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
